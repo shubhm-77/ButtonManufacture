@@ -53,3 +53,13 @@ From the Tools menu, selected NuGet Package Manager > Package Manager Console (P
 Successfull
 The InitialCreate class
 examined the Migrations/20221014203101_InitialCreate.cs migration file
+
+1800
+started step 5
+SQL Server Express LocalDB
+Examined the database
+From the View menu, opened SQL Server Object Explorer (SSOX)
+Right-clicked on the Button table > View Designer
+Right-clicked on the Button table > View Data
+Created a new class named SeedData in the Models folder
+updated a code in it

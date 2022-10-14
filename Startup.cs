@@ -33,6 +33,8 @@ namespace ButtonManufacture
             services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
                 .AddEntityFrameworkStores<ButtonManufactureContext>();
             services.AddControllersWithViews();
+            services.AddDbContext<ButtonManufactureContext>(options =>
+            options.UseSqlServer(Configuration.GetConnectionString("ButtonManufactureContext")));
             services.AddRazorPages();
         }
 
