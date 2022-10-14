@@ -1,6 +1,6 @@
 ﻿Name: Shubham Kakadiya
 SID: #0791153
-13th oct 2022
+14th oct 2022
 1642
 started Assignment 1
 started step 1
@@ -19,3 +19,12 @@ changed Welcome to ButtonManufacture
 launched the app in non-debug mode and selected IIS express
 ran successfully with output ButtonManufacture
 step-1 complete
+
+14th oct 2022
+1708
+modified the Index.cshtml in views/Button
+Opened the Views/Shared/_Layout.cshtml file
+modified code for AboutUs
+created item in Views/home named AboutUs
+Added code in it
+modified HomeController.cs
