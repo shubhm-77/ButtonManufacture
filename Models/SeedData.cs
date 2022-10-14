@@ -26,7 +26,7 @@ namespace ButtonManufacture.Models
                         Type = "Flat",
                         ManufacturingDate = DateTime.Parse("1989-2-12"),
                         color = "red",
-                        Price = "2,
+                        Price = 2,
                         Quantity = 4,
                         Review = 8
                     },

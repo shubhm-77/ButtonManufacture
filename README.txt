@@ -63,3 +63,4 @@ Right-clicked on the Button table > View Designer
 Right-clicked on the Button table > View Data
 Created a new class named SeedData in the Models folder
 updated a code in it
+replaced the content of program.cs
