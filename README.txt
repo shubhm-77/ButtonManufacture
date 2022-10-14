@@ -53,4 +53,3 @@ From the Tools menu, selected NuGet Package Manager > Package Manager Console (P
 Successfull
 The InitialCreate class
 examined the Migrations/20221014203101_InitialCreate.cs migration file
-Test the app
