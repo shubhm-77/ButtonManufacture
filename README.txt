@@ -64,3 +64,19 @@ Right-clicked on the Button table > View Data
 Created a new class named SeedData in the Models folder
 updated a code in it
 replaced the content of program.cs
+
+1332
+step 5 continue
+Tested the app
+The app shows seeded data
+added six more data
+Opened the Views/Shared/_Layout.cshtml file
+modified code for product
+created item in Views/home named product.cshtml
+Added code in it
+modified HomeController.cs
+modified code in views/home/Product.cshtml to add image
+created folder named Images in wwwroot
+added image in it
+ran the app
+success with image display

@@ -50,7 +50,60 @@ namespace ButtonManufacture.Models
                         Quantity = 1,
                         Review = 9
                     },
-
+                    new Button
+                    {
+                        Type = "Snaps",
+                        ManufacturingDate = DateTime.Parse("2001-4-03"),
+                        color = "gold",
+                        Price = 7,
+                        Quantity = 2,
+                        Review = 6
+                    },
+                    new Button
+                    {
+                        Type = "Stud",
+                        ManufacturingDate = DateTime.Parse("2003-7-12"),
+                        color = "transparent",
+                        Price = 7,
+                        Quantity = 5,
+                        Review = 8
+                    },
+                    new Button
+                    {
+                        Type = "Toggles",
+                        ManufacturingDate = DateTime.Parse("2007-9-22"),
+                        color = "brown",
+                        Price = 8,
+                        Quantity = 3,
+                        Review = 9
+                    },
+                    new Button
+                    {
+                        Type = "Leather",
+                        ManufacturingDate = DateTime.Parse("2010-5-10"),
+                        color = "Dark Brown",
+                        Price = 8,
+                        Quantity = 2,
+                        Review = 8
+                    },
+                    new Button
+                    {
+                        Type = "Pearl",
+                        ManufacturingDate = DateTime.Parse("2017-8-15"),
+                        color = "silver",
+                        Price = 5,
+                        Quantity = 6,
+                        Review = 7
+                    },
+                    new Button
+                    {
+                        Type = "Wooden",
+                        ManufacturingDate = DateTime.Parse("1997-6-07"),
+                        color = "green",
+                        Price = 3,
+                        Quantity = 7,
+                        Review = 6
+                    },
                     new Button
                     {
                         Type = "Metal",
