@@ -1,5 +1,6 @@
 ﻿Name: Shubham Kakadiya
 SID: #0791153
+
 14th oct 2022
 1642
 started Assignment 1
@@ -16,7 +17,8 @@ created README.txt file
 commented the local host ssl port
 updated Index.cshtml file
 changed Welcome to ButtonManufacture
-launched the app in non-debug mode and selected IIS express
+launched the app in non-debug mode
+selected IIS express
 ran successfully with output ButtonManufacture
 step-1 complete
 
@@ -33,7 +35,8 @@ modified HomeController.cs
 started step 4
 Added a model to an ASP.NET Core MVC app
 Added a data model class
-created a class in models folder and named it Button.cs
+created a class in models folder
+named it Button.cs
 updated Models/Button.cs file with a code
 Added NuGet packages
 created a database context class
@@ -65,10 +68,12 @@ Created a new class named SeedData in the Models folder
 updated a code in it
 replaced the content of program.cs
 
+16 October 2022
 1332
 step 5 continue
 Tested the app
 The app shows seeded data
+test successful
 added six more data
 Opened the Views/Shared/_Layout.cshtml file
 modified code for product
@@ -80,3 +85,12 @@ created folder named Images in wwwroot
 added image in it
 ran the app
 success with image display
+
+17 October 2022
+0935
+step 5 continue
+added css for background color in _Layout.cshtml
+display successful
+added css for font in Index.cshtml
+display successful
+assignment 1 complete
